@@ -1,0 +1,6 @@
+C:\Users\kisungTae\Desktop\Equ\Equ\bin\Debug\Equ.exe.config
+C:\Users\kisungTae\Desktop\Equ\Equ\bin\Debug\Equ.exe
+C:\Users\kisungTae\Desktop\Equ\Equ\bin\Debug\Equ.pdb
+C:\Users\kisungTae\Desktop\Equ\Equ\obj\Debug\Equ.csprojResolveAssemblyReference.cache
+C:\Users\kisungTae\Desktop\Equ\Equ\obj\Debug\Equ.exe
+C:\Users\kisungTae\Desktop\Equ\Equ\obj\Debug\Equ.pdb
